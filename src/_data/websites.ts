@@ -235,16 +235,16 @@ export const devStarterPack = [
   { website: 'dev.to', icon: siDevdotto }
 ]
 
-// export const game = [
-//   { website: 'pubg.com', icon: siPubg },
-//   { website: 'pubg.com', icon: siCrossfire },
-//   { website: 'roblox.com', icon: siRoblox },
-//   { website: 'ea.com', icon: siEa},
-//   { website: 'epicgames.com', icon: siEpicgames},
-//   { website: 'nintendo.com', icon: siNintendo},
-//   { website: 'ubisoft.com', icon: siUbisoft}
-//   { website: 'steampowered.com', icon: siSteam },
-// ]
+export const gamingEssensials = [
+     { website: 'pubg.com', icon: siPubg },
+     { website: 'crossfire.z8games.com', icon: siCrossfire },
+     { website: 'roblox.com', icon: siRoblox },
+     { website: 'ea.com', icon: siEa},
+     { website: 'epicgames.com', icon: siEpicgames},
+     { website: 'nintendo.com', icon: siNintendo},
+     { website: 'ubisoft.com', icon: siUbisoft},
+     { website: 'steampowered.com', icon: siSteam }
+]
 
 export const idnStarterPack = [
   { website: 'line.me', icon: siLine },

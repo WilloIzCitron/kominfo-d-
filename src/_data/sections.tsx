@@ -1,4 +1,4 @@
-import { devStarterPack, idnStarterPack, linuxStarterPack, websiteListUSA } from './websites'
+import { devStarterPack, idnStarterPack, linuxStarterPack, websiteListUSA, gamingEssensials } from './websites'
 
 export const websiteSections = [
   {
@@ -10,6 +10,11 @@ export const websiteSections = [
     title: 'Essential Developer Toolkit',
     description: <p>Service yang ✨ anak bangsa ✨ mungkin akan pakai saat membuat app</p>,
     sites: devStarterPack
+  },
+  {
+    title: 'Gaming Essensials',
+    description: <p>Service yang digunakan untuk gamer casual sampai gamer profesional, dan pula streamer gaming</p>,
+    sites: gamingEssensials
   },
   {
     title: 'Top websites USA',
