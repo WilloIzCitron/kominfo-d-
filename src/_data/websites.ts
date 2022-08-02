@@ -45,11 +45,13 @@ import {
   siGooglecloud,
   siGoogledrive,
   siGooglemaps,
+  siGentoo,
   siHackerrank,
   siHeroku,
   siImdb,
   siImgur,
   siInstagram,
+  siItchDotIo,
   siJenkins,
   siJsdelivr,
   siKalilinux,
@@ -236,14 +238,13 @@ export const devStarterPack = [
 ]
 
 export const gamingEssensials = [
-     { website: 'pubg.com', icon: siPubg },
-     { website: 'crossfire.z8games.com', icon: siCrossfire },
      { website: 'roblox.com', icon: siRoblox },
      { website: 'ea.com', icon: siEa},
      { website: 'epicgames.com', icon: siEpicgames},
      { website: 'nintendo.com', icon: siNintendo},
      { website: 'ubisoft.com', icon: siUbisoft},
-     { website: 'steampowered.com', icon: siSteam }
+     { website: 'steampowered.com', icon: siSteam },
+     { website: 'itch.io', icon: siItchIo}
 ]
 
 export const idnStarterPack = [
@@ -349,5 +350,7 @@ export const linuxStarterPack = [
   { website: 'kali.org', icon: siKalilinux },
   { website: 'linux.org', icon: siLinux },
   { website: 'ubuntu.com', icon: siUbuntu },
-  { website: 'us.archive.ubuntu.com', icon: ubuntuArchivesIcon }
+  { website: 'gentoo.org', icon: siGentoo},
+  { website: 'us.archive.ubuntu.com', icon: ubuntuArchivesIcon },
+  { website: 'aur.archlinux.org', icon: archUserRepo}
 ]

@@ -155,3 +155,9 @@ export const ubuntuArchivesIcon: Partial<SimpleIcon> = {
   hex: '',
   path: ''
 }
+
+export const archUserRepo: Partial<SimpleIcon> = {
+  title: 'Arch User Repository (AUR)',
+  hex: '',
+  path: ''
+}
