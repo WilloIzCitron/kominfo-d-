@@ -51,7 +51,7 @@ import {
   siImdb,
   siImgur,
   siInstagram,
-  siItchDotIo,
+  siItchdotio,
   siJenkins,
   siJsdelivr,
   siKalilinux,
@@ -125,6 +125,7 @@ import {
 
 import {
   alodokterIcon,
+  archUserRepo,
   bcaIcon,
   brainlyIcon,
   components101Icon,
@@ -244,7 +245,7 @@ export const gamingEssensials = [
      { website: 'nintendo.com', icon: siNintendo},
      { website: 'ubisoft.com', icon: siUbisoft},
      { website: 'steampowered.com', icon: siSteam },
-     { website: 'itch.io', icon: siItchIo}
+     { website: 'itch.io', icon: siItchdotio}
 ]
 
 export const idnStarterPack = [
