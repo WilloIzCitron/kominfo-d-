@@ -46,6 +46,7 @@ import {
   siGoogledrive,
   siGooglemaps,
   siGentoo,
+  siGogdotcom,
   siHackerrank,
   siHeroku,
   siImdb,
@@ -120,7 +121,8 @@ import {
   siYahoo,
   siYoutube,
   siZoho,
-  siZoom
+  siZoom,
+  siOrigin
 } from 'simple-icons/icons'
 
 import {
@@ -245,7 +247,9 @@ export const gamingEssensials = [
      { website: 'nintendo.com', icon: siNintendo},
      { website: 'ubisoft.com', icon: siUbisoft},
      { website: 'steampowered.com', icon: siSteam },
-     { website: 'itch.io', icon: siItchdotio}
+     { website: 'itch.io', icon: siItchdotio },
+     { website: 'gog.com', icon: siGogdotcom},
+     { website: 'origin.com', icon: siOrigin}
 ]
 
 export const idnStarterPack = [
